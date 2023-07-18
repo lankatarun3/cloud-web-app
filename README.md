@@ -25,9 +25,9 @@ On running the image, a container is created on which the image will run. Copy t
 
 # Docker Desktop:
 We can also check the image and the container created in the docker desktop as shown in the below image.
- 
 The image is also pushed to docker hub in order to run the web application through the docker desktop.
- 
+ ![image](https://github.com/lankatarun3/cloud-web-app/assets/133871675/bf782f04-7400-4a34-b691-4d172ca0b8ae)
+
 # Push the Image and source code to github:
 Now the created docker image is pushed to github registry using the below steps:\
 •	Login to the github registry using PAT(Personal Access token)\
@@ -47,6 +47,7 @@ In order to upload the container application in azure we have to upload the imag
  
 # Web application testing:
 The web application which is running on the server mentioned in the logs is as shown in the below images. It depicts the usage of the cloud application or resources by the SME company in order to move the on-premise infrastructure to cloud infrastructure using the deployment of cloud resources or services.
+
  ![image](https://github.com/lankatarun3/cloud-web-app/assets/133871675/82b64071-7a48-4d83-a0d2-4460e591102d)
 
  
