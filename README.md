@@ -85,3 +85,13 @@ The traditional on-premise infrastructure basically known as non-Cloud solutions
 We don’t get the flexibility to use the remote access of the servers. Also, it requires the high infrastructure costs for the setup. The deployment of the resources and services take more time and it’s not fully automated.
 Considering all these conditions for the organization which requires scalability, less infrastructure costs and remote access to the resources it is necessary to move from on-premise to the cloud environment which includes moving of the on-premise system to the cloud resources and to use the containerization to host the application on the remote server or by using the virtual machine on the cloud server.
 
+## 6	Conclusion
+It can be stated that this document is the perfect reflection of the entire progress of cloud deployment. In order to complete the research, we developed a web application and then push it into the docker and GitHub. After that, the application is also deployed on Azure that contains the different resources.
+
+## 7	References
+Azure. (2023). Data Privacy in the Trusted Cloud. Microsoft Azure. [online] Available at: https://azure.microsoft.com/en-in/explore/trusted-cloud/privacy [Accessed 10 Jul. 2023].\
+Crunchbase. (2022). Crunchbase. [online] Available at: https://www.crunchbase.com/organization/abcodia [Accessed 10 Jul. 2023].\
+IBM. (2023). What is a Cloud Server. [online] Available at: https://www.ibm.com/topics/cloud-server [Accessed 10 Jul. 2023].\
+ROCA Test. (2023). Contact Us for Assistance. [online] Available at: https://www.therocatest.co.uk/contact-us/ [Accessed 10 Jul. 2023].
+
+
